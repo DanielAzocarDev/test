@@ -1,0 +1,22 @@
+.invest_summary {
+  background: #fff;
+  padding: 20px;
+  margin: 20px 0 40px 0;
+  box-shadow: 0px 8px 20px rgba(197, 166, 236, 0.05);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+
+.invest_summary div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.invest_summary div:first-of-type {
+  border-bottom: 1px solid #faf9fd;
+}
+
+.invest_summary div p {
+  margin: 10px 0;
+}

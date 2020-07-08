@@ -1,0 +1,39 @@
+.goal_view {
+  width: 158px;
+  height: 202px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #fff;
+  box-shadow: 0px 8px 20px rgba(197, 166, 236, 0.05);
+  border-radius: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.goal_view h3 {
+  color: #817699;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.goal_view img {
+  width: 40px;
+}
+
+.amounts p {
+  font-size: 12px;
+  font-weight: 600;
+  color: #54d1ed;
+  line-height: 16px;
+  letter-spacing: -0.03em;
+  margin: 0;
+}
+
+.amounts span {
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: -0.03em;
+  color: #817699;
+}

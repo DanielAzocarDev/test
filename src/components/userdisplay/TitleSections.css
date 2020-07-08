@@ -1,0 +1,19 @@
+.user-display {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 0 40px 0;
+}
+
+.user {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #58506b;
+  margin: 0;
+}
+
+.user-display i {
+  color: #54d1ed;
+}
